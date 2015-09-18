@@ -1,0 +1,10 @@
+.jumbotron{
+  visibility: hidden;
+  margin-top: 60px;
+}
+.col-xs-6{
+  text-align: center;
+}
+.row{
+  padding-top: 20px;
+}
