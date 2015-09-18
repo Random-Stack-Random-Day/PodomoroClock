@@ -1,1 +1,1 @@
-Created a Podomoro Clock as a test of Set_Interval. Added complete functionality, defaulted values, as well as modifiable timers. Start/Stop functions included
+Created a Podomoro Clock as a test of Set_Interval. Added complete functionality, defaulted values, as well as modifiable timers. Start/Stop functions included. Updating again!
